@@ -1,0 +1,39 @@
+timestamp=1622523818787
+
+[~A]
+C:/My_Designs/MIPS32_Processor/MIPS32/src/pipe_MIPS32.v=0*515*2307
+C:/My_Designs/MIPS32_Processor/MIPS32/src/pipe_MIPS32.v_test_mips32.v=0*8721*10991
+C:/My_Designs/MIPS32_Processor/MIPS32/src/test_mips32.v=0*13662*14477
+LastVerilogToplevel=test_mips32
+ModifyID=7
+Version=74
+
+[~MFT]
+0=6|0MIPS32.mgf|14477|5372
+1=4|1MIPS32.mgf|23123|16644
+3=8|3MIPS32.mgf|41345|29739
+
+[$root]
+A/$root=22|||1*22749
+BinI32/$root=3*37759
+SLP=3*37863
+Version=11.1.262.7351 (Windows)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c73a565f2ade592f8ac1c68f484c9216fd472948576962473fc209f21850ecd8
+
+[pipe_MIPS32]
+A/pipe_MIPS32=22|../src/pipe_MIPS32.v|1|1*12880
+BinI32/pipe_MIPS32=3*22291
+R=../src/pipe_MIPS32.v|1
+SLP=3*27506
+Version=11.1.262.7351 (Windows)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|5998428419073c8ff3169551e18a7e05234fc510f0bffec2c251692ad9c00c25d8da31f715f119223e48998b6bba5a43
+
+[test_mips32]
+A/test_mips32=22|../src/test_mips32.v|1|1*23123
+BinI32/test_mips32=3*37931
+R=../src/test_mips32.v|1
+SLP=3*41345
+Version=11.1.262.7351 (Windows)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|2ada32f6fd0131ba6b44782ee9001d7a4014b7cfa016de43af1a11949f2251cdd8ad8f9ee0b9c9242f1fd49b107180d0
+
+[~U]
+$root=12|0*13285|
+pipe_MIPS32=12|0*8193|
+test_mips32=12|0*13483||0x10

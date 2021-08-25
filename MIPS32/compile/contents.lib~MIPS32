@@ -1,0 +1,7 @@
+7
+~M 0 "" 0 $root
+~A 1 "" 0 $root
+~M 1 "../src/pipe_MIPS32.v" 1 pipe_MIPS32
+~A 1 "../src/pipe_MIPS32.v" 1 pipe_MIPS32
+~M 3 "../src/test_mips32.v" 1 test_mips32
+~A 1 "../src/test_mips32.v" 1 test_mips32

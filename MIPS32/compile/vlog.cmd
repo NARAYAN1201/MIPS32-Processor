@@ -1,0 +1,1 @@
+-o C:/My_Designs/MIPS32_Processor/MIPS32/compile -lc C:/My_Designs/MIPS32_Processor/library.cfg -fl C:/My_Designs/MIPS32_Processor/MIPS32/projlib.cfg -pli "C:/Aldec/Active-HDL-Student-Edition/bin/systf.dll" -epr C:/My_Designs/MIPS32_Processor/MIPS32/compile/MIPS32.epr -O2 -sve -msg 5 -sv2k12 -work MIPS32 C:/My_Designs/MIPS32_Processor/MIPS32/src/test_mips32.v 
